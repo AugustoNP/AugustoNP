@@ -1,8 +1,8 @@
 # Bom dia pessoal! 
 
 ##  Cursos/faculdade :
-###   - Cursando Técnico em Jogos Digitais;
-###   - (Futuro) Cursando Ciências da Computação.;
+   - Cursando Técnico em Jogos Digitais;
+   - (Futuro) Cursando Ciências da Computação.;
 
 ##  Experiência :
 ###   - FIRST Alumni:
