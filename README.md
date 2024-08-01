@@ -6,13 +6,15 @@
 
 ##  Experiência :
 ###   - FIRST Alumni:
-#### - 3 anos como piloto, engenheiro, e programador de FRC na equipe ALL MIGHT #9162
-#### - Mentoria com equipes de FLL e FTC
+ - 3 anos como piloto, engenheiro, e programador de FRC na equipe ALL MIGHT #9162.
+ - Mentoria com equipes de FLL e FTC.
+
 ###   - Competidor da OBR;
-####  - (resultados da OBR)
+  - (resultados da OBR)
 
 ##  Jogos :
 ### [Café e revolução.](https://ingro.itch.io/coffeeproject)
+ diretor de arte, animação, e animação.
 
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://old-village.itch.io)
 
