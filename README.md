@@ -14,9 +14,8 @@
 
 ##  Experience :
 ### Data Science:
-   -4 meses de experiência trabalhando no setor de T.I da empresa ISM GOMES DE MATTOS, Principalmente desenvolvendo projetos com `python` e `pandas`.
+   - 4 months of experience working in ISM GOMES DE MATTOS, mainly coding in `python` utilizing `pandas`.
 
-   Aqui está o read.me do `historico_faturamento` LINK
 
 ## Socials: 
 <div> 
@@ -27,7 +26,5 @@
   
 </div>
 
-## Status
-![Augusto Penha GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoNP&show_icons=true&theme=Gradient)
-![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoN&layout=compact&hide_title=true&theme=radical)
+
 
