@@ -8,9 +8,9 @@
 <img align = "center" width="50" height="50" alt="pandas" src="https://github.com/user-attachments/assets/d762c39f-673a-4ed9-8afc-8e8c94f918d2" />
 <img align = "center" width="50" height="50" alt="opencv" src="https://github.com/user-attachments/assets/6fa13824-b99d-4dd0-8728-1f64d081d065" />
    
-##  Qualification :
-   - Técnico em programação de jogos digitais pelo SENAI;
-   - Cursando engenharia de controlhe e automação no IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Ceará) ;
+##  Qualifications :
+   - Games programming technician by SENAI;
+   - Currently studying automation and control engineering at IFCE(Federal institute of Education, Science e Tecnology of Ceará);
 
 ##  Experience :
 ### Data Science:
