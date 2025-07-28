@@ -14,7 +14,7 @@
 
 ##  Experience :
 ### Data Science:
-   - 4 months of experience working in ISM GOMES DE MATTOS, mainly coding in `python` utilizing `pandas`.
+   - 4 months of experience working at ISM GOMES DE MATTOS, mainly coding in `python` utilizing `pandas`.
 
 
 ## Socials: 
