@@ -33,27 +33,38 @@ Currently studying **Automation and Control Engineering** at IFCE and building p
 
 ### Public Projects
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<!-- CV_LP_project Card -->
+<div style="border: 1px solid #004d00; border-radius: 10px; padding: 15px; width: 45%; background-color: #0b1a0b;">
 **[CV_LP_project](https://github.com/AugustoNP/CV_LP_project)**  
 ![Python](https://img.shields.io/badge/Python-darkgreen?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-darkgreen?style=flat-square)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-darkgreen?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-darkgreen?style=flat-square)  
+![Flask](https://img.shields.io/badge/Flask-darkgreen?style=flat-square)
 
-Real-time people counting system using computer vision  
-- Supports single and multi-camera setups  
-- Uses **YOLOv8** for detection and tracking  
-- Timer-based snapshots and **Flask streaming**  
-- Multi-camera **GUI for scalable monitoring**
+**Description:**  
+Real-time people counting system using computer vision with **YOLOv8** for detection and tracking.  
+- Supports single & multi-camera setups  
+- Timer-based snapshots & Flask streaming  
+- Multi-camera GUI for scalable monitoring
+</div>
 
+<!-- historico-faturamento Card -->
+<div style="border: 1px solid #004d00; border-radius: 10px; padding: 15px; width: 45%; background-color: #0b1a0b;">
 **[historico-faturamento](https://github.com/AugustoNP/historico-faturamento)**  
 ![Python](https://img.shields.io/badge/Python-darkgreen?style=flat-square)
 ![pandas](https://img.shields.io/badge/pandas-darkgreen?style=flat-square)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-darkgreen?style=flat-square)
 
-Excel-based billing history manager  
+**Description:**  
+Excel-based billing history manager for federal units.  
 - Consolidates and standardizes multiple billing tables  
 - Automated classification and validation  
-- **Bilingual documentation** (English & Portuguese)
+- Bilingual documentation (English & Portuguese)
+</div>
+
+</div>
 
 ### Socials
 
@@ -62,9 +73,12 @@ Excel-based billing history manager
 
 ### GitHub Stats
 
-![AugustoNP's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoNP&show_icons=true&theme=darkgreen)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoNP&layout=compact&theme=darkgreen)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AugustoNP&theme=darkgreen)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AugustoNP&show_icons=true&hide_title=true&count_private=true&theme=darkgreen" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoNP&layout=compact&hide_title=true&theme=darkgreen" width="48%" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoNP&theme=darkgreen&hide_border=true" width="48%" />
 
 ---
 
@@ -88,27 +102,38 @@ Excel-based billing history manager
 
 ### Projetos Públicos
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<!-- CV_LP_project Card -->
+<div style="border: 1px solid #004d00; border-radius: 10px; padding: 15px; width: 45%; background-color: #0b1a0b;">
 **[CV_LP_project](https://github.com/AugustoNP/CV_LP_project)**  
 ![Python](https://img.shields.io/badge/Python-darkgreen?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-darkgreen?style=flat-square)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-darkgreen?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-darkgreen?style=flat-square)  
+![Flask](https://img.shields.io/badge/Flask-darkgreen?style=flat-square)
 
-Sistema de contagem de pessoas em tempo real usando visão computacional  
+**Descrição:**  
+Sistema de contagem de pessoas em tempo real usando visão computacional com **YOLOv8** para detecção e rastreamento.  
 - Suporta câmeras únicas e múltiplas  
-- Usa **YOLOv8** para detecção e rastreamento  
-- Snapshots com temporizador e **Flask streaming**  
-- GUI multi-câmera para **monitoramento escalável**
+- Snapshots com temporizador & Flask streaming  
+- GUI multi-câmera para monitoramento escalável
+</div>
 
+<!-- historico-faturamento Card -->
+<div style="border: 1px solid #004d00; border-radius: 10px; padding: 15px; width: 45%; background-color: #0b1a0b;">
 **[historico-faturamento](https://github.com/AugustoNP/historico-faturamento)**  
 ![Python](https://img.shields.io/badge/Python-darkgreen?style=flat-square)
 ![pandas](https://img.shields.io/badge/pandas-darkgreen?style=flat-square)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-darkgreen?style=flat-square)
 
-Gerenciador de histórico de faturamento baseado em Excel  
+**Descrição:**  
+Gerenciador de histórico de faturamento baseado em Excel.  
 - Consolida e padroniza múltiplas tabelas de faturamento  
 - Classificação e validação automatizadas  
-- Documentação **bilíngue** (Inglês & Português)
+- Documentação bilíngue (Inglês & Português)
+</div>
+
+</div>
 
 ### Contatos
 
@@ -117,6 +142,10 @@ Gerenciador de histórico de faturamento baseado em Excel
 
 ### Estatísticas do GitHub
 
-![AugustoNP's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoNP&show_icons=true&theme=darkgreen)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoNP&layout=compact&theme=darkgreen)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AugustoNP&theme=darkgreen)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AugustoNP&show_icons=true&hide_title=true&count_private=true&theme=darkgreen" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoNP&layout=compact&hide_title=true&theme=darkgreen" width="48%" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoNP&theme=darkgreen&hide_border=true" width="48%" />
+
