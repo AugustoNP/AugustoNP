@@ -1,30 +1,58 @@
-# Hey there!
- </br> I'm Augusto, a <b>Brazilian</b> <img align = "center" width="20" height="15" alt="Brasil" src="https://github.com/user-attachments/assets/3b771896-473c-449d-b590-cbe1e7d3a17a" /> dev , currently living in 
- <b>Fortaleza, Ceará</b>. </p>
-<h3>Stuff i use to code</h3>
-<img align = "center" width="50" height="50" alt="unity" src="https://github.com/user-attachments/assets/eeb1c4e3-771f-4649-9f9e-5d50a0b30a61" />
-<img align = "center" width="50" height="50" alt="c#" src="https://github.com/user-attachments/assets/9b622c95-abeb-4663-8dd0-c68617ca88ad" />
-<img align = "center" width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/1ac3c392-550f-453a-92a2-29a816e1e85e" >
-<img align = "center" width="50" height="50" alt="pandas" src="https://github.com/user-attachments/assets/d762c39f-673a-4ed9-8afc-8e8c94f918d2" />
-<img align = "center" width="50" height="50" alt="opencv" src="https://github.com/user-attachments/assets/6fa13824-b99d-4dd0-8728-1f64d081d065" />
-   
-##  Qualifications :
-   - Games programming technician by SENAI;
-   - Currently studying automation and control engineering at IFCE(Federal institute of Education, Science e Tecnology of Ceará);
+# Augusto Penha
 
-##  Experience :
-### Data Science:
-   - 4 months of experience working at ISM GOMES DE MATTOS, mainly coding in `python` utilizing `pandas`.
+**Data Science | Computer Vision | Automation**
 
+Brazilian developer focused on **Data Science, Computer Vision, and Automation**.  
+Currently studying **Automation and Control Engineering** at IFCE and developing projects that leverage Python, pandas, and OpenCV for practical applications.
 
-## Socials: 
-<div> 
-  <a href="https://www.instagram.com/_augustonpenha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "augustonpenha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Augusto-Penha-a50904237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-</div>
+---
 
+## Skills & Tools
 
+![Python](https://img.shields.io/badge/Python-3.13.3-blue)
+![pandas](https://img.shields.io/badge/pandas-2.1.1-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8.1-green)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1.2-red)
+![Git](https://img.shields.io/badge/Git-version_control-black)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
+---
+
+## Experience
+
+**Data Science Internship – ISM GOMES DE MATTOS**  
+*4 months experience processing and analyzing data using Python and pandas.*
+
+---
+
+## Public Projects
+
+### [CV_LP_project](https://github.com/AugustoNP/CV_LP_project)
+**Real-time people counting system using computer vision**  
+- Supports single and multi-camera setups  
+- Uses **YOLOv8 for object detection and tracking**  
+- Timer-based snapshots and **Flask video streaming**  
+- Multi-camera **GUI for scalable monitoring**
+
+### [historico-faturamento](https://github.com/AugustoNP/historico-faturamento)
+**Excel-based billing history manager for ISM GOMES DE MATTOS**  
+- Consolidates and standardizes multiple billing tables  
+- Automated classification and validation  
+- **Bilingual documentation** (English & Portuguese)  
+
+---
+
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AugustoPenha-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-penha/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## GitHub Stats
+
+![AugustoNP's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoNP&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoNP&layout=compact&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AugustoNP&theme=radical)
